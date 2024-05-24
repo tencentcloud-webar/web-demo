@@ -1,0 +1,25 @@
+{
+  "name": "webar-web-demo",
+  "version": "1.0.3",
+  "description": "tencent effect webar web demo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tencentcloud-webar/web-demo",
+    "email": "nnsjiang@tencent.com"
+  },
+  "keywords": [
+    "webar",
+    "tencentcloud",
+    "tencentEffect",
+    "effect",
+    "AR",
+    "beauty",
+    "小程序美颜"
+  ],
+  "author": "nnsjiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tencentcloud-webar/web-demo/issues"
+  },
+  "homepage": "https://github.com/tencentcloud-webar/web-demo"
+}
